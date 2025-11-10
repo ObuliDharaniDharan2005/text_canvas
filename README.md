@@ -1,8 +1,8 @@
 
-# celebrarecompany
+ celebrarecompany
 
-A new Flutter project.
-=======
+
+
 # text_canvas
 📱 App Preview
 
@@ -11,7 +11,7 @@ Core Screen: Moveable, draggable text workspace with toolbar below.
 
 Features available:
 
-Add text
+ Add text
 
 Edit (font, style, color, size)
 
