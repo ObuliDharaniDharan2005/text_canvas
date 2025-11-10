@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # celebrarecompany
 
 A new Flutter project.
@@ -44,4 +44,4 @@ This project emphasizes:
 * Clean and readable Flutter code
 
 * No plagiarism (written completely from scratch)
->>>>>>> f3c34ac290a7e9f0dcc52758367c56355c708f64
+
