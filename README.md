@@ -21,15 +21,6 @@ Undo/Redo
 
 Delete
 
-📦 Submission Requirements
-
-✅ Submit:
-
-The .apk file (from your Flutter project)
-
-The main source file (lib/main.dart) containing your implementation
-
-Ensure all dependencies are included in pubspec.yaml
 
 💡 Highlights
 
